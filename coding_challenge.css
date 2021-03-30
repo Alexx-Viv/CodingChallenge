@@ -1,0 +1,72 @@
+body {
+  background-image: url("sfondo.jpg");
+  background-size: cover;
+}
+
+.sfondo {
+  background: rgba(0, 0, 0, 0.6);
+  width: 1100px;
+  height: 740px;
+  margin-top: 25px;
+  margin: auto;
+  border-radius: 15px;
+}
+
+.logo {
+  width: 250px;
+  margin-top: 50px;
+}
+
+.sottotitolo {
+  color: lime;
+  font: 30px Verdana;
+}
+
+nav {
+  background-color: lime;
+  width: 900px;
+  height: 35px;
+  margin: auto;
+}
+
+button {
+  margin-top: 6px;
+}
+
+main {
+  width: 900px;
+  height: 400px;
+  margin: auto;
+}
+
+.monopattino {
+  color: white;
+}
+
+.nome {
+  font: 20px Verdana;
+}
+
+.posizione, .carica {
+  font: 14px Verdana;
+}
+
+.carico {
+  height: 25px;
+  border-radius: 5px;
+}
+
+#poco {
+  background-color: red;
+  width: 100px;
+}
+
+#medio {
+  background-color: orange;
+  width: 300px;
+}
+
+#molto {
+  background-color: green;
+  width: 600px;
+}
